@@ -1,0 +1,6 @@
+Day-1:
+⨠ Made the skeleton
+⨠ added icon
+⨠ created css and js folder
+⨠ added favicon
+
